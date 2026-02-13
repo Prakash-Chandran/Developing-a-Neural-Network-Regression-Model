@@ -90,9 +90,12 @@ def train_model(ai_brain, X_train, y_train, criterion, optimizer, epochs=2000):
 ### OUTPUT
 
 ### Training Loss Vs Iteration Plot
+
 <img width="332" height="185" alt="image" src="https://github.com/user-attachments/assets/2f6e8033-d3af-4719-93e2-742c9f33bb33" />
 
+
 <img width="225" height="33" alt="image" src="https://github.com/user-attachments/assets/83193b6f-de2e-4106-b525-765b11ddd15e" />
+
 
 <img width="680" height="467" alt="image" src="https://github.com/user-attachments/assets/ba01f069-01e6-482a-adfd-5c6e94e73219" />
 
