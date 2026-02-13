@@ -97,7 +97,9 @@ def train_model(ai_brain, X_train, y_train, criterion, optimizer, epochs=2000):
 <img width="680" height="467" alt="image" src="https://github.com/user-attachments/assets/ba01f069-01e6-482a-adfd-5c6e94e73219" />
 
 ### New Sample Data Prediction
-<img width="249" height="32" alt="image" src="https://github.com/user-attachments/assets/45fa67c7-dfec-42b6-8169-ebb61762cdcc" />
+
+<img width="344" height="27" alt="Screenshot 2026-02-12 212848" src="https://github.com/user-attachments/assets/91848685-800e-4c1f-aa47-ec5388a742cc" />
+
 
 
 ## RESULT
